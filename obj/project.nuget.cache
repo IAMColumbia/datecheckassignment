@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rb5vgOc0IMk1gitLMfHjyvz8K1gh1yLonG3BlTuJXNvOA2QNe6HoqmwpUzqijXz1q2+JOddB4QXlVgdAg3rryA==",
+  "success": true,
+  "projectFilePath": "/home/karl.statz/src/DateServer/DateServer.fsproj",
+  "expectedPackageFiles": [
+    "/home/karl.statz/.nuget/packages/fsharp.core/6.0.1/fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
